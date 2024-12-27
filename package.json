@@ -1,0 +1,28 @@
+{
+  "name": "expresrouting",
+  "version": "1.0.0",
+  "description": "About express routing",
+  "keywords": [
+    "nodejs",
+    "express",
+    "routing"
+  ],
+  "homepage": "https://github.com/kzaid0767/expresrouting#readme",
+  "bugs": {
+    "url": "https://github.com/kzaid0767/expresrouting/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzaid0767/expresrouting.git"
+  },
+  "license": "ISC",
+  "author": "Kassim Zaid",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
